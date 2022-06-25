@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/web-luagra/static/css/main.05312eab.css",
+    "main.js": "/web-luagra/static/js/main.55e28c98.js",
+    "index.html": "/web-luagra/index.html",
+    "main.05312eab.css.map": "/web-luagra/static/css/main.05312eab.css.map",
+    "main.55e28c98.js.map": "/web-luagra/static/js/main.55e28c98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05312eab.css",
+    "static/js/main.55e28c98.js"
+  ]
+}
