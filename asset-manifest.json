@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/web-luagra/static/css/main.05312eab.css",
-    "main.js": "/web-luagra/static/js/main.55e28c98.js",
+    "main.css": "/web-luagra/static/css/main.43be5748.css",
+    "main.js": "/web-luagra/static/js/main.6b36f13a.js",
+    "static/media/logo.svg": "/web-luagra/static/media/logo.e8c7219c656b949017911f25d7b407b6.svg",
     "index.html": "/web-luagra/index.html",
-    "main.05312eab.css.map": "/web-luagra/static/css/main.05312eab.css.map",
-    "main.55e28c98.js.map": "/web-luagra/static/js/main.55e28c98.js.map"
+    "main.43be5748.css.map": "/web-luagra/static/css/main.43be5748.css.map",
+    "main.6b36f13a.js.map": "/web-luagra/static/js/main.6b36f13a.js.map"
   },
   "entrypoints": [
-    "static/css/main.05312eab.css",
-    "static/js/main.55e28c98.js"
+    "static/css/main.43be5748.css",
+    "static/js/main.6b36f13a.js"
   ]
 }
